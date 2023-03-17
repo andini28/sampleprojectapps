@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test002_Failed_Login_Wrong_Pass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02d4e951-26d3-4aba-9ef4-77002fa5f3e1</testCaseGuid>
+</TestCaseEntity>
